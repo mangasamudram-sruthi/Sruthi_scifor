@@ -19,7 +19,6 @@ print(can_form_arithmetic_progression(arr2))
 
 
 
-# In[ ]:
 
 
 
