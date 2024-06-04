@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 def can_form_arithmetic_progression(arr):
     arr.sort()
     # Calculate the difference between the first two elements
@@ -20,8 +14,6 @@ print(can_form_arithmetic_progression(arr1))
 arr2 = [1, 2, 4]
 print(can_form_arithmetic_progression(arr2))  
 
-
-# In[ ]:
 
 
 
