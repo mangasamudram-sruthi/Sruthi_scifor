@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 def is_monotonic(nums):
     increasing = True
     decreasing = True
@@ -26,7 +20,7 @@ nums3 = [1, 3, 2]
 print(is_monotonic(nums3))  
 
 
-# In[ ]:
+
 
 
 
