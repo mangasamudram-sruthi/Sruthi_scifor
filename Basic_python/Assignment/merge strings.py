@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 def merge(word1: str, word2: str) -> str:
     merged_string = []
     i, j = 0, 0
@@ -22,15 +16,7 @@ word2 = "hi"
 print(merge(word1, word2))  
 
 
-# In[ ]:
 
-
-
-    
-        
-
-
-# In[ ]:
 
 
 
