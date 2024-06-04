@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 def sign_func(nums):
     negative_count = 0
     for num in nums:
@@ -26,7 +20,6 @@ nums3 = [-1, 1, -1, 1, -1]
 print(sign_func(nums3))  
 
 
-# In[ ]:
 
 
 
