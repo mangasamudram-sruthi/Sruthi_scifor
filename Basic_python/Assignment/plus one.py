@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
 
 def plus_one(digits):
     n = len(digits)
@@ -22,8 +17,6 @@ print(plus_one(digits2))
 digits3 = [9]
 print(plus_one(digits3)) 
 
-
-# In[ ]:
 
 
 
