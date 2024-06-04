@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 def move_zeros(nums):
     slow = 0
     for fast in range(len(nums)):
@@ -25,14 +19,6 @@ nums2 = [0]
 move_zeros(nums2)
 print(nums2)  
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
