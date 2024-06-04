@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 def find_added_letter(s, t):
     
     char_count = {}
@@ -23,16 +17,6 @@ def find_added_letter(s, t):
 s = "apple"
 t = "apples"
 print(find_added_letter(s, t))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
