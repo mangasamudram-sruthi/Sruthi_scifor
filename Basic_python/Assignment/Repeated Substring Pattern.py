@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 def repeated_substring_pattern(s):
     n = len(s)    
     # Check each possible length of the substring
@@ -23,7 +17,7 @@ s3 = "abcabcabcabc"
 print(repeated_substring_pattern(s3))  
 
 
-# In[ ]:
+
 
 
 
