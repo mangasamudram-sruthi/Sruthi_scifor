@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 def is_anagram(s, t):
     # Check if the lengths are equal
     if len(s) != len(t):
@@ -32,8 +26,6 @@ s2 = "rat"
 t2 = "car"
 print(is_anagram(s2, t2)) 
 
-
-# In[ ]:
 
 
 
