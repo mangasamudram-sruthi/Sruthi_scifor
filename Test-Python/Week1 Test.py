@@ -1,11 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # 1)Encapsulation
 # It is a OOPs concept that protects data integrity and promote modularity.
-# 
 
-# In[9]:
 
 
 class Smartphone:
@@ -24,7 +19,6 @@ print(iphone.os)
 # # 2)Polymorphism
 # Polymorphism means many forms, i.e same functions can be used for differnt types. Used in code readability and efficiency. 
 
-# In[43]:
 
 
 class Shape:
@@ -49,7 +43,6 @@ calculate_area(circle)
 # # 3)Single Level Inheritance
 # It means child class inherits from single parent class.
 
-# In[27]:
 
 
 class Vehicle:
@@ -76,7 +69,6 @@ car.display_info()
 # 
 # Here inheritance goes on in multiple levels.
 
-# In[33]:
 
 
 class Engine:
@@ -99,7 +91,7 @@ print(car.drive())
 # 
 # A child class inherits from another child class and this intermidiate child class inherits from parent class.
 
-# In[38]:
+
 
 
 class Vehicle:
@@ -138,7 +130,6 @@ tesla.display_battery_capacity()
 # 2)nested if
 # 3)match case
 
-# In[24]:
 
 
 num1 = int(input('Enter first number  : '))
@@ -152,9 +143,7 @@ else:
 
 # # 7) Decision making statements
 # same as conditional Statements
-# 
 
-# In[42]:
 
 
 y = 13
@@ -169,7 +158,6 @@ else:
 
 # # 8)Factorial in python
 
-# In[40]:
 
 
 num = int(input("Enter a non-negative integer: "))
@@ -185,9 +173,6 @@ else:
 
 # # 9)Functions
 # Blocks of reusable codes are called as function
-# 
-
-# In[39]:
 
 
 def even_or_odd(number):
@@ -206,5 +191,4 @@ print(f"{num} is {result}")
 # There are 3 pillars in python :
 #     1)Encapsulation
 #     2)polymorphism
-#     3)Inheritance
-#     
+#     3)Inheritance    
