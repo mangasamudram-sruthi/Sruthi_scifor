@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Bank:
     def __init__(self, atm_pin, initial_balance=0):
         self._atm_pin = atm_pin
